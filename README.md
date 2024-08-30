@@ -26,9 +26,9 @@ FLOWCHART
 OUTCOME OF PROJECT
 
 
-![image](https://github.com/user-attachments/assets/93b44908-e955-4a88-b7b3-9691114de699)
+![image](https://github.com/user-attachments/assets/93b44908-e955-4a88-b7b3-9691114de699)   -Starting page & user interface
 
--Starting page & user interface
+
 
 ![image](https://github.com/user-attachments/assets/aad08718-8576-4f14-926c-d8750495f524)
 
