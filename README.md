@@ -23,24 +23,24 @@ FLOWCHART
 
 ![image](https://github.com/user-attachments/assets/3d6a6e00-1782-4e64-b8e5-0844e90c0fa5)
 
-Outcome Of Project
+OUTCOME OF PROJECT
 
 
 ![image](https://github.com/user-attachments/assets/93b44908-e955-4a88-b7b3-9691114de699)
 
-Starting page & user interface
+-Starting page & user interface
 
 ![image](https://github.com/user-attachments/assets/aad08718-8576-4f14-926c-d8750495f524)
 
-Typing URL to Convert & generate its QR Code
+-Typing URL to Convert & generate its QR Code
 
 ![image](https://github.com/user-attachments/assets/8483e3ae-31a7-4abf-8f04-7e940e69dfee)
 
-Generated QR Code & folder for the QR Code images
+-Generated QR Code & folder for the QR Code images
 
 ![image](https://github.com/user-attachments/assets/3f5787b2-9d80-4a4a-890e-c15e0201ff76)
 
-Saved QR Codes generations from previous URL conversions in the prev. given folder
+-Saved QR Codes generations from previous URL conversions in the prev. given folder
 
 QR code is now being widely used in a variety of businesses. QR code is a way of encoding more
 information than a traditional bar code. And most importantly, it contains information that can be
